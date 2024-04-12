@@ -539,3 +539,12 @@ body {
 .feedback .tres img{
     margin-top: -70px;
 }
+
+.feedback .tres h2{
+    margin-top: 5px;
+    color: #DDCA69;
+}
+
+.feedback .tres p{
+    color: #fff;
+}
