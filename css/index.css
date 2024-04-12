@@ -370,3 +370,10 @@ body {
     display: flex;
     margin-right: 20px;
 }
+.investigacion .slider {
+
+    margin: auto;
+   
+    overflow: hidden;
+    
+}
