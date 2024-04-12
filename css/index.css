@@ -387,3 +387,8 @@ body {
     );
 
 }
+
+.taller .slider {
+    height: 40%;
+    margin: auto;
+}
