@@ -148,3 +148,28 @@ body {
     color: #000000;
 }
 
+
+.hero p {
+    margin-bottom: 20px;
+    color: #000000;
+    text-justify: auto;
+}
+
+.cta {
+    display: inline-block;
+    background-color: #124C5F;
+    justify-self: left;
+    text-decoration: none;
+    padding: 13px 50px;
+    border-radius: 12px;
+    color: #ffffff;
+
+}
+
+.hero .logo img{
+    background-color: #FFE55E;
+    border-radius: 40% 75% 55% 75% / 62% 75% 40% 85%;
+    margin-right: 120px;
+    margin-top: 60px;
+}
+
