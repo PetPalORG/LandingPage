@@ -362,3 +362,7 @@ body {
     font-weight: normal;
     margin-bottom: 30px;
 }
+.investigacion p{
+    margin-bottom: 15px;
+    text-align: justify;
+}
