@@ -14,3 +14,4 @@ if(answer.clientHeight === 0){
  answer.style.height = `${height}px`;
  });
   });
+})();
