@@ -407,3 +407,25 @@ body {
     padding-bottom: 15px;
     padding-top: 15px;
 }
+
+.taller h2{
+    font-weight: normal;
+    text-align:left;
+    
+}
+
+.taller .h2-taller{
+    text-align: right;
+    margin-top: 25px;
+}
+.taller p{
+    margin-top: 10px;
+    text-align: right;
+}
+
+.taller .p-1{
+    text-align: justify;
+}
+.taller-info {
+    display: flex;
+}
