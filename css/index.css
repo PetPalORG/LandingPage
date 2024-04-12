@@ -429,3 +429,28 @@ body {
 .taller-info {
     display: flex;
 }
+
+/* Publicidad*/
+
+.publicidad {
+    text-align: center;
+    position: relative;
+}
+
+.publicidad .info {
+    position: absolute;
+    margin-left: 42%;
+    margin-top: -180px;
+}
+
+/*Feedback*/
+
+.feedback {
+    width: 100%;
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    background-color: #ffffff;
+    background-image: linear-gradient(to bottom, #FFFFF6 0%, #fff 100%);
+
+}
