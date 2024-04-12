@@ -40,3 +40,16 @@ body {
 /*    clip-path: unset;*/
     z-index: -1;
 }
+
+.hero {
+    width: 100%;
+    height: 100vh;
+    min-height: 600px;
+    max-height: 800px;
+    position: relative;
+    display: flex;
+    grid-template-rows: 100px 1fr;
+    color: #000;
+    
+    
+}
