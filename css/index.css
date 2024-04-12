@@ -377,3 +377,13 @@ body {
     overflow: hidden;
     
 }
+
+.taller{
+
+
+    background-image: linear-gradient(to bottom,
+    #d8fcf4 0%,
+    #ffffff 100%
+    );
+
+}
