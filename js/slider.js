@@ -9,3 +9,4 @@ changePosition(1);
 buttonBefore.addEventListener('click', ()=>{
  changePosition(-1);
 });
+const changePosition = (add)=>{
