@@ -6,3 +6,4 @@ question.addEventListener('click', ()=>{
 let height = 0;
 let answer = question.nextElementSibling;
 let addPadding = question.parentElement.parentElement;
+addPadding.classList.toggle('questions__padding--add');
