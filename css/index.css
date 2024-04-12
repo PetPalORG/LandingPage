@@ -599,3 +599,15 @@ body {
     margin-right: 25px;
     cursor: pointer;
 }
+
+.rating2 label:before {
+    content: "\2605";
+
+}
+
+.rating2 input[type="radio"]:checked ~ label:before {
+    content: "\2606";
+    color: #016bf5;
+
+
+}
