@@ -903,3 +903,57 @@ body {
         */
     }
 }
+
+@media screen and (max-width:1000px) {
+    .contenedor-proyectos{
+        width: 95%;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .contenedor-proyectos{
+        width: 90%;
+    }
+    .contenedor-proyectos .proyecto{
+        width: 48%;
+    }
+}
+
+@media screen and (max-width:450px) {
+    h1{
+        font-size: 22px;
+    }
+    .contenedor-proyectos{
+        width: 98%;
+    }
+    .contenedor-proyectos .proyecto{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .contenedor-prueba{
+        width: 95%;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .contenedor-prueba{
+        width: 90%;
+    }
+    .contenedor-prueba .slider{
+        width: 48%;
+    }
+}
+
+@media screen and (max-width:450px) {
+    h1{
+        font-size: 22px;
+    }
+    .contenedor-prueba{
+        width: 98%;
+    }
+    .contenedor-prueba .slider{
+        width: 80%;
+    }
+}
