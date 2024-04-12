@@ -69,3 +69,23 @@ body {
     font-weight: 300;
 }
 
+
+.nav__link {
+
+    margin-left: auto;
+    padding: 0;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: 2em;
+}
+
+.button1 {
+    background-color: #124C5F;
+    padding: 7px 15px 7px 15px;
+    border-color: #124C5F;
+    border-radius: 5px;
+    gap: 2em;
+    color: white;
+}
+
