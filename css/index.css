@@ -454,3 +454,72 @@ body {
     background-image: linear-gradient(to bottom, #FFFFF6 0%, #fff 100%);
 
 }
+
+.feedback h1 {
+    width: 10%;
+    margin-left: 250px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #124C5F;
+}
+
+.feedback_div {
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 200px;
+    flex-wrap: wrap;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+.feedback .uno{
+    margin: auto;
+    margin-right: 50px;
+    list-style-type: none;
+    width: 300px;
+    height: 400px;
+    border-radius: 30px 30px 0px 0px;
+    background: linear-gradient( to bottom, #FFF1A6 0%, #FFF1A6 30%, #FFF1A6 70%, #124C5F 0%);
+    text-align: center;
+
+}
+
+.feedback .uno img{
+    margin-top: -40px;
+}
+
+.feedback .uno h2{
+    margin-top: -10px;
+    color: #DDCA69;
+}
+
+.feedback .uno p{
+    color: #fff;
+}
+
+
+.feedback .dos{
+    margin: auto;
+    list-style-type: none;
+    width: 300px;
+    height: 400px;
+    border-radius: 30px 30px 0px 0px;
+    background: linear-gradient( to bottom, #EBA8BF 0%, #EBA8BF 30%, #EBA8BF 70%, #124C5F 0%);
+    text-align: center;
+
+}
+
+.feedback .dos img{
+    margin-top: -18px;
+    margin-left: -150px;
+}
+
+.feedback .dos h2{
+    margin-top: -75px;
+    color: #DDCA69;
+}
+
+.feedback .dos p{
+    color: #fff;
+}
