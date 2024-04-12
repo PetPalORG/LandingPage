@@ -586,3 +586,16 @@ body {
     flex-direction: row-reverse;
     font-size: 0;
 }
+
+.rating2 input[type="radio"] {
+
+    display: none;
+}
+
+.rating2 label {
+    font-size: 30px;
+    color: rgba(187, 183, 183, 0.726);
+    margin: -15px 3px;
+    margin-right: 25px;
+    cursor: pointer;
+}
