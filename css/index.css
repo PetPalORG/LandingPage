@@ -315,3 +315,7 @@ body {
     text-align: right;
     margin-top: 25px;
 }
+.taller p{
+    margin-top: 10px;
+    text-align: right;
+}
