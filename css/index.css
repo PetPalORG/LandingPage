@@ -548,3 +548,14 @@ body {
 .feedback .tres p{
     color: #fff;
 }
+
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 0;
+}
+
+.rating input[type="radio"] {
+
+    display: none;
+}
