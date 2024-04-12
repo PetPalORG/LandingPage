@@ -559,3 +559,16 @@ body {
 
     display: none;
 }
+
+.rating label {
+    font-size: 30px;
+    color: rgba(187, 183, 183, 0.726);
+    margin: -15px 3px;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+.rating label:before {
+    content: "\2605";
+
+}
