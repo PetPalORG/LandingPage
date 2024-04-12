@@ -274,6 +274,118 @@ body {
 
 }
 
+/* Testimony */
+
+.testimony{
+    background-color: #FFF2B3;
+}
+
+.testimony__container{
+    display: grid;
+    grid-template-columns: 50px 1fr 50px;
+    gap: 1em;
+    align-items: center;
+}
+
+.testimony__body{
+    display: grid;
+    grid-template-columns: 1fr max-content;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2em;
+    grid-column: 2/3;
+    grid-row: 1/2;
+    opacity: 0;
+    pointer-events: none;
+}
+
+
+.testimony__body--show{
+    pointer-events: unset;
+    opacity: 1;
+    transition: opacity 1.5s ease-in-out;
+}
+
+.testimony__img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 30%;
+}
+
+.testimony__texts{
+    max-width: 700px;
+}
+
+.testimony__course{
+    background-color: royalblue;
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+}
+
+.testimony__arrow{
+    width: 90%;
+    cursor: pointer;
+}
+
+/* Investigacion */
+
+.investigacion{
+    
+
+    background-color: #fafafa;
+    background: linear-gradient(
+            to bottom,
+            #fff 15%,
+            #fafafa 0%,
+            #fafafa 30%,
+            #fafafa 70%,
+            #fff 70%,
+            #fff 100%
+    );
+    background-size: 100px 100%;
+    background-repeat: repeat;
+
+}
+
+.investigacion .info {
+    width: 30%;
+    margin-top: 190px;
+
+}
+
+.investigacion h2{
+    font-weight: normal;
+    margin-bottom: 15px;
+    
+}
+
+.investigacion .info h1{
+
+    color: #000;
+    text-align: left;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.investigacion p{
+    margin-bottom: 15px;
+    text-align: justify;
+}
+.investigacion-info {
+    display: flex;
+    margin-right: 20px;
+}
+.investigacion .slider {
+
+    margin: auto;
+   
+    overflow: hidden;
+    
+}
+
 /*miniarquitectos*/
 
 .taller{
