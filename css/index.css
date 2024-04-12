@@ -355,3 +355,10 @@ body {
     margin-bottom: 15px;
     
 }
+.investigacion .info h1{
+
+    color: #000;
+    text-align: left;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
