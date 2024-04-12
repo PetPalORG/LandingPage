@@ -322,3 +322,7 @@ body {
 .taller .p-1{
     text-align: justify;
 }
+.taller-info {
+    display: flex;
+}
+
