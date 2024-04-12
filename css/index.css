@@ -181,3 +181,16 @@ body {
 }
 
 
+.pruebas h1{
+    width: 20%;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 8%;
+    color: #000000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #124C5F;
+}
+
+
