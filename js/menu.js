@@ -8,3 +8,4 @@ menu.classList.add('nav__link--show');
     closeMenu.addEventListener('click', ()=>{
 menu.classList.remove('nav__link--show');
 });
+})();
