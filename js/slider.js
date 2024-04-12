@@ -13,3 +13,4 @@ const changePosition = (add)=>{
 const currentTestimony = document.querySelector('.testimony__body--show').dataset.id;
 value = Number(currentTestimony);
 value+= add;
+sliders[Number(currentTestimony)-1].classList.remove('testimony__body--show');
