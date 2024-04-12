@@ -330,62 +330,6 @@ body {
     cursor: pointer;
 }
 
-/* Investigacion */
-
-.investigacion{
-    
-
-    background-color: #fafafa;
-    background: linear-gradient(
-            to bottom,
-            #fff 15%,
-            #fafafa 0%,
-            #fafafa 30%,
-            #fafafa 70%,
-            #fff 70%,
-            #fff 100%
-    );
-    background-size: 100px 100%;
-    background-repeat: repeat;
-
-}
-
-.investigacion .info {
-    width: 30%;
-    margin-top: 190px;
-
-}
-
-.investigacion h2{
-    font-weight: normal;
-    margin-bottom: 15px;
-    
-}
-
-.investigacion .info h1{
-
-    color: #000;
-    text-align: left;
-    font-weight: normal;
-    margin-bottom: 30px;
-}
-
-.investigacion p{
-    margin-bottom: 15px;
-    text-align: justify;
-}
-.investigacion-info {
-    display: flex;
-    margin-right: 20px;
-}
-.investigacion .slider {
-
-    margin: auto;
-   
-    overflow: hidden;
-    
-}
-
 /*miniarquitectos*/
 
 .taller{
