@@ -89,3 +89,16 @@ body {
     color: white;
 }
 
+
+.button2 {
+    background-color: #C7E7E1;
+    padding: 7px 15px 7px 15px;
+    border-color: #C7E7E1;
+    border-radius: 5px;
+    color: #124C5F;
+    gap: 2em;
+}
+.nav__items {
+
+    list-style: none;
+}
