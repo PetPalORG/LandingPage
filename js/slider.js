@@ -8,3 +8,4 @@ changePosition(1);
  });
 buttonBefore.addEventListener('click', ()=>{
  changePosition(-1);
+});
