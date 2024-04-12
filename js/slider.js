@@ -4,3 +4,4 @@ const buttonNext = document.querySelector('#next');
 const buttonBefore = document.querySelector('#before');
 let value;   
   buttonNext.addEventListener('click', ()=>{
+changePosition(1);
