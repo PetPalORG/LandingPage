@@ -310,3 +310,8 @@ body {
     text-align:left;
     
 }
+
+.taller .h2-taller{
+    text-align: right;
+    margin-top: 25px;
+}
