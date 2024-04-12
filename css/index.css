@@ -278,10 +278,19 @@ body {
 
 .taller{
 
-
     background-image: linear-gradient(to bottom,
     #d8fcf4 0%,
     #ffffff 100%
     );
 
+}
+
+.taller .slider {
+    height: 40%;
+    margin: auto;
+}
+
+.taller .info{
+    width: 26%;
+    margin: auto;
 }
