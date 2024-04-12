@@ -657,3 +657,16 @@ body {
     font-size: 2rem;
     margin-bottom: 30px;
 }
+
+.footer__title, .footer__newsletter{
+    color: #000;
+}
+
+
+.footer__container{
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 60px;
+}
