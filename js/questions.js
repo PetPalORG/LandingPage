@@ -4,3 +4,4 @@ console.log(titleQuestions)
 titleQuestions.forEach(question =>{
 question.addEventListener('click', ()=>{
 let height = 0;
+let answer = question.nextElementSibling;
