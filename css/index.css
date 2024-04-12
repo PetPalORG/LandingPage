@@ -326,3 +326,22 @@ body {
     display: flex;
 }
 
+/* Investigacion */
+
+.investigacion{
+    
+
+    background-color: #fafafa;
+    background: linear-gradient(
+            to bottom,
+            #fff 15%,
+            #fafafa 0%,
+            #fafafa 30%,
+            #fafafa 70%,
+            #fff 70%,
+            #fff 100%
+    );
+    background-size: 100px 100%;
+    background-repeat: repeat;
+
+}
