@@ -20,3 +20,8 @@ body {
     padding: var(--padding-container);
 
 }
+
+
+.hero p{
+    color: #fff;
+}
