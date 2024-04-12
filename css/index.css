@@ -630,3 +630,15 @@ body {
     margin-right: 25px;
     cursor: pointer;
 }
+
+.rating3 label:before {
+    content: "\2605";
+
+}
+
+.rating3 input[type="radio"]:checked ~ label:before {
+    content: "\2606";
+    color: #016bf5;
+
+
+}
