@@ -194,3 +194,13 @@ body {
 }
 
 
+.contenedor-prueba {
+    display: flex;
+    width: 85%;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius: 3px;
+
+}
+
