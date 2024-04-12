@@ -64,3 +64,8 @@ body {
     align-items: center;
 }
 
+
+.nav__title {
+    font-weight: 300;
+}
+
