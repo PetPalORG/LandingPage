@@ -102,3 +102,16 @@ body {
 
     list-style: none;
 }
+
+
+.nav__links {
+    color: #000;
+    text-decoration: none;
+}
+
+.nav__menu {
+
+    margin-left: auto;
+    cursor: pointer;
+    display: none;
+}
