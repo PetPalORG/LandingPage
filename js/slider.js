@@ -11,3 +11,4 @@ buttonBefore.addEventListener('click', ()=>{
 });
 const changePosition = (add)=>{
 const currentTestimony = document.querySelector('.testimony__body--show').dataset.id;
+value = Number(currentTestimony);
