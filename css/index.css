@@ -642,3 +642,18 @@ body {
 
 
 }
+
+/* Footer */
+
+.footer{
+    background-color: #ffffff;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.footer__title{
+    font-weight: 300;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
