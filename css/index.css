@@ -572,3 +572,17 @@ body {
     content: "\2605";
 
 }
+
+.rating input[type="radio"]:checked ~ label:before {
+    content: "\2606";
+    color: #016bf5;
+
+
+}
+
+
+.rating2 {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 0;
+}
