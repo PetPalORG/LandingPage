@@ -273,3 +273,15 @@ body {
     100%{margin-left: -300%;}
 
 }
+
+/*miniarquitectos*/
+
+.taller{
+
+
+    background-image: linear-gradient(to bottom,
+    #d8fcf4 0%,
+    #ffffff 100%
+    );
+
+}
