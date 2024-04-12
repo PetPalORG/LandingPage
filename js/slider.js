@@ -17,3 +17,4 @@ sliders[Number(currentTestimony)-1].classList.remove('testimony__body--show');
 if(value === sliders.length+1 || value === 0){
 value = value === 0 ? sliders.length  : 1;
  }
+sliders[value-1].classList.add('testimony__body--show');
