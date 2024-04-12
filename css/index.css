@@ -204,3 +204,28 @@ body {
 
 }
 
+
+.contenedor-prueba .slider {
+    width: 23%;
+    position:relative;
+    height: 250px;
+
+    margin-bottom: 5px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, .75);
+    overflow: hidden;
+
+}
+
+
+.pruebas .slider li{
+    list-style: none;
+    width: 100%;
+      
+}
+
+.slider img {
+    background-position: center;
+    background-size: contain;
+}
+
+
