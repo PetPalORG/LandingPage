@@ -397,3 +397,13 @@ body {
     width: 26%;
     margin: auto;
 }
+
+.h1taller{
+
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: #73b6e1;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
