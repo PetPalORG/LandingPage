@@ -12,3 +12,11 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: var(--padding-container);
+
+}
