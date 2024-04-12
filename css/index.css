@@ -392,3 +392,8 @@ body {
     height: 40%;
     margin: auto;
 }
+
+.taller .info{
+    width: 26%;
+    margin: auto;
+}
