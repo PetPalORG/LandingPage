@@ -5,3 +5,4 @@ const menu = document.querySelector('.nav__link');
 openButton.addEventListener('click', ()=>{
 menu.classList.add('nav__link--show');
 });
+    closeMenu.addEventListener('click', ()=>{
