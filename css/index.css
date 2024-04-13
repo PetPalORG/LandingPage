@@ -8,7 +8,7 @@
 body {
     /*font-family: 'Poppins', sans-serif;*/
     background-color: #fff;
-    font-family: "Pangolin", cursive;
+    font-family: "roboto";
     font-weight: 400;
     font-style: normal;
 }
@@ -26,6 +26,17 @@ body {
     color: #fff;
 }
 
+.hero h1{
+    font-family:'rubik';
+}
+
+.info h1{
+    font-family:'rubik';
+}
+
+.feedback h1{
+    font-family:'rubik';
+}
 
 .hero::before {
     content: "";
